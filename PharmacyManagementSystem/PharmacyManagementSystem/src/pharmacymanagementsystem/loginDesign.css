@@ -7,16 +7,15 @@ and open the template in the editor.
     Created on : 09 26, 22, 3:38:36 PM
     Author     : WINDOWS 10
 */
-
 .left-form{
-    -fx-background-color:linear-gradient(to bottom right, #449d6b, #633364);
-    -fx-border-color:#000;
+    -fx-background-color:linear-gradient(to bottom right, #6a82fb, #fc5c7d);
+    -fx-border-color:#ddd;
     -fx-border-width:.4px 0px .4px .4px;
 }
 
 .right-form{
-    -fx-background-color:#fff;
-    -fx-border-color:#000;
+    -fx-background-color:#f9f9f9;
+    -fx-border-color:#ddd;
     -fx-border-width:.4px .4px .4px 0px;
 }
 
@@ -25,24 +24,24 @@ and open the template in the editor.
     -fx-cursor:hand;
 }
 .close:hover{
-    -fx-background-color:#ff4d5f;
+    -fx-background-color:#ff6b81;
 }
 
 .textfield{
     -fx-background-color:transparent;
-    -fx-border-color:#000;
+    -fx-border-color:#ddd;
     -fx-border-width:.4px;
     -fx-border-radius:4px;
     -fx-font-size:13px;
     -fx-font-family:"Tahoma";
 }
 .textfield:focused{
-    -fx-border-color:linear-gradient(to bottom right, #449d6b, #633364);
+    -fx-border-color:linear-gradient(to bottom right, #6a82fb, #fc5c7d);
     -fx-border-width:1.4px;
 }
 
 .login-btn{
-    -fx-background-color:linear-gradient(to bottom right, #449d6b, #633364);
+    -fx-background-color:linear-gradient(to bottom right, #6a82fb, #fc5c7d);
     -fx-background-radius:15px;
     -fx-cursor:hand;
     -fx-font-size:14px;
@@ -50,5 +49,5 @@ and open the template in the editor.
     -fx-font-family:"Arial";
 }
 .login-btn:hover{
-    -fx-background-color:linear-gradient(to bottom right, #3fb871, #874489);
+    -fx-background-color:linear-gradient(to bottom right, #7f9cf5, #ff85a1);
 }

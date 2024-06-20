@@ -27,7 +27,7 @@
             <AnchorPane layoutX="250.0" prefHeight="492.0" prefWidth="450.0" styleClass="right-form" stylesheets="@loginDesign.css">
                <children>
                   <FontAwesomeIcon fill="#336347" glyphName="USER_MD" layoutX="197.0" layoutY="125.0" size="6em" />
-                  <Label layoutX="110.0" layoutY="135.0" text="Welcome, Pharmacist!">
+                  <Label layoutX="110.0" layoutY="135.0" text="Welcome Back, Pharmacist">
                      <font>
                         <Font name="Berlin Sans FB" size="25.0" />
                      </font>
